@@ -115,3 +115,6 @@
 
 ## Credits
    This program is an updated version of the <a href="https://github.com/R3nzTheCodeGOD">R3nzTheCodeGOD</a>/<a href="https://github.com/R3nzTheCodeGOD/R3nzSkinTFT">R3nzSkinTFT</a> project since his military service.
+
+## The latest source code
+- I am a college student and I greatly appreciate your work. I would like to use your source code to have a more enjoyable gaming experience! Not for any commercial use!!!
